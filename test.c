@@ -2783,7 +2783,7 @@ int main()
 {
     printf("基础功能\n");
     printf("短视频\n");
-    printf("约饭\n");
+    printf("约饭（修复bug）\n");
 
     return 0;
 }
