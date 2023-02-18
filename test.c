@@ -2782,6 +2782,7 @@ void Swap(int *num1, int *num2)
 int main()
 {
     printf("基础功能\n");
+    printf("短视频\n");
 
     return 0;
 }
