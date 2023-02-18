@@ -2784,7 +2784,7 @@ int main()
     printf("基础功能\n");
     printf("短视频\n");
     printf("约饭\n");
-    printf("商城开发50%\n");
+    printf("商城开发完成１００％\n");
 
     return 0;
 }
